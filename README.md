@@ -1,10 +1,5 @@
 
-Olá, sou _Thiago Campos_
+Salut, Je suis _Thiago Campos_
 
-My personal projects are built on the foundation of *open-source* code, 
-*user-centered* design, and respect for *user privacy*. 
-I strongly believe in creating a community-driven environment 
-that is free from advertisements and distractions. 
-You can reach me through [Email](mailto:ola@thigcampos.com).
-
-Cordialmente, por _Thiago Campos_
+A software engineer and a design enthusiast, living in the beautiful landscapes of Mantiqueira, Brazil. 
+My interests lead me to believe that being at the intersection of technology and the humanities gives my projects a purpose that transcends technology as a mere end in itself.
